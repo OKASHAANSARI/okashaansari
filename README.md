@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%" alt="Muhammad Okasha Ansari - Software Developer">
+<img src="./github-banner.png" width="100%" alt="Muhammad Okasha Ansari - Android Developer">
 
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhammad Okasha Ansari</h1>
 
 <h3 align="center">
-Software Developer | Android Developer | Problem Solver
+Android Developer | Software Developer | Problem Solver
 </h3>
 
 <p align="center">
