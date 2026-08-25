@@ -18,7 +18,7 @@ Building applications, learning new technologies, and turning ideas into real-wo
 
 ## 🚀 About Me
 
-- 💻 Software & Android Developer
+- 💻 Android & Software Developer
 - 📱 Building Android applications with Kotlin
 - 🎨 Working with Jetpack Compose
 - 🔥 Exploring Firebase and modern development tools
